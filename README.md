@@ -49,6 +49,6 @@ Skills: PYTHON & HTML & WEB DEFACE & WEB SITE DOWN
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/CRAZY-ESX) <br>
 [![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=blue)](https://www.facebook.com/ITZSYNTAX) <br>
-[![](https://img.shields.io/badge/Telegram-black?logo=Facebook&logoColor=red&labelColor=blue)](https://www.t.me/CRAZY_ESX) <br>
+[![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)](https://www.t.me/CRAZY_ESX) <br>
 
 <h2> THANKS FOR VISIT <h2\>
