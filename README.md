@@ -25,7 +25,8 @@ Skills: PYTHON & HTML & WEB DEFACE & WEB SITE DOWN
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CRAZY-ESX )](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRAZY-ESX)](https://github.com/anuraghazra/github-readme-stats)
+<left><img src="https://i.postimg.cc/Rhg9f3D6/Screenshot-20240209-105832.png" width=",960" height="540">
+&nbsp; </left>
 
 [![P4RVEJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRAZY-ESX&show_icons=true&theme=chartreuse-dark)  
 
