@@ -10,10 +10,15 @@
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 
-#### A NOOB HACKRES TEAM ( TELEGRAM : https://t.me/THEANON69 )
 
+#### A NOOB HACKRES TEAM ( TELEGRAM : https://t.me/THEANON69 )
+<left><img src="https://i.postimg.cc/Rhg9f3D6/Screenshot-20240209-105832.png" width=",960" height="540">
+&nbsp; </left>
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CRAZY-ESX&layout=compact&theme=chartreuse-dark" />
+
+![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+
 
 <br/>
 <br/>
@@ -36,7 +41,6 @@ Skills: PYTHON & HTML & WEB DEFACE & WEB SITE DOWN
 
 
 
-<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
 
 
 </p>
@@ -45,7 +49,7 @@ Skills: PYTHON & HTML & WEB DEFACE & WEB SITE DOWN
 
 
 
-![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+
 
 <h1> THIS IS OUR REAL GITHUB ACCOUANT<h5/>
 <h2>CONTACT US IN SOCIAL MEDIA<h2/>
