@@ -27,10 +27,10 @@ Skills: PYTHON & HTML & WEB DEFACE & WEB SITE DOWN
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRAZY-ESX )](https://github.com/anuraghazra/github-readme-stats)
 
-![P4RVEJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRAZY-ESX &show_icons=true&theme=chartreuse-dark)  
+[![P4RVEJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRAZY-ESX&show_icons=true&theme=chartreuse-dark)  
 
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CRAZY-ESX &layout=compact&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CRAZY-ESX&layout=compact&theme=chartreuse-dark" />
 
 
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
