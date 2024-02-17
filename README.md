@@ -12,14 +12,14 @@
 
 
 #### A NOOB HACKRES TEAM ( TELEGRAM : https://t.me/THEANON69 )
-<left><img src="https://i.postimg.cc/Rhg9f3D6/Screenshot-20240209-105832.png" width=",960" height="540">
+<left><img src="https://i.postimg.cc/kGtnc5zt/Picsart-24-02-01-23-06-16-316.jpg" width=",960" height="540">
 &nbsp; </left>
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CRAZY-ESX&layout=compact&theme=chartreuse-dark" />
 
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
-
+[![P4RVEJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRAZY-ESX&show_icons=true&theme=chartreuse-dark)  
 <br/>
 <br/>
 <br/>
@@ -31,12 +31,7 @@ Skills: PYTHON & HTML & WEB DEFACE & WEB SITE DOWN
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CRAZY-ESX )](https://github.com/ryo-ma/github-profile-trophy)
 
-<left><img src="https://i.postimg.cc/Rhg9f3D6/Screenshot-20240209-105832.png" width=",960" height="540">
-&nbsp; </left>
-
-[![P4RVEJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRAZY-ESX&show_icons=true&theme=chartreuse-dark)  
 
 
 
