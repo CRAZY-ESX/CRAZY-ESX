@@ -13,6 +13,9 @@
 
 #### <a style = "color:#FFFFFF" href="https://t.me/THEANON69" target="_blank" size="6">JOIN THE ANON 69 CHANNEL TELEGRAM << CLICK THIS</a>
 
+<left><img src="https://i.postimg.cc/kGtnc5zt/Picsart-24-02-01-23-06-16-316.jpg" width=",960" height="540">
+&nbsp; </left>
+
 <p align="center"><img src="https://img.shields.io/badge/WE%20WE WORK FOR BANGLADESH AND THE MUSLIMS OF THE WORLD - আমরা বাংলাদেশ এবং বিশ্বের মুসলমানদের জন্য কাজ করি-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
     
 
