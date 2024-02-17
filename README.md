@@ -15,6 +15,11 @@
 <left><img src="https://i.postimg.cc/kGtnc5zt/Picsart-24-02-01-23-06-16-316.jpg" width=",960" height="540">
 &nbsp; </left>
 
+<br>
+<marquee direction="left" size="9">
+    <span style="color:white;text-shadow: 0 0 10px red, 0 0 20px red, 0 0 30px red, 0 0 40px orange, 0 0 50px yellow, 0 0 60px green, 0 0 70px blue, 0 0 80px purple; font-size: 30px; animation: glow 1s ease-in-out infinite;">#জয় বাংলা । #JOY BANGLA । WE WORK FOR BANGLADESH AND THE MUSLIMS OF THE WORLD । আমরা বাংলাদেশ এবং বিশ্বের মুসলমানদের জন্য কাজ করি</span>
+</marquee>
+
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CRAZY-ESX&layout=compact&theme=chartreuse-dark" />
 
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
